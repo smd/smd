@@ -5,7 +5,7 @@
 
 [![Twitter: funny](https://img.shields.io/twitter/follow/kyliejenner?style=social)](https://twitter.com/logout)
 [![GitHub smd](https://img.shields.io/github/followers/smd?label=follow&style=social)](https://github.com/smd)
-https://discord.gg/aSZVNnUheb
+
 
 
 
