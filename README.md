@@ -3,7 +3,7 @@ wwwwwwwwww<h2> call me o_o <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd
 <p><em>Currently studying at a <a href="https://www.mdx.ac.uk/">disclosed university</a></br>Interested in manipulating whatever I can find!
 </em></p>
 
-[![Twitter: funny](https://img.shields.io/twitter/follow/kylejenner?style=social)](https://twitter.com/logout)
+[![Twitter: funny](https://img.shields.io/twitter/follow/kyliejenner?style=social)](https://twitter.com/logout)
 [![GitHub smd](https://img.shields.io/github/followers/smd?label=follow&style=social)](https://github.com/smd)
 https://discord.gg/aSZVNnUheb
 
